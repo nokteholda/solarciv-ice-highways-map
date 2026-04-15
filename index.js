@@ -34,7 +34,7 @@ const map = L.map('mapa', {
 map.zoomControl.setPosition('topright');
 
 const overworld = L.tileLayer(proxyURL + mapURL + '/minecraft_overworld/{z}/{x}_{y}.png', {
-    maxNativeZoom: 3,
+    maxNativeZoom: 6,
     minNativeZoom: 0,
     maxZoom: 15,
     minZoom: -2
@@ -63,10 +63,10 @@ let coordinateController = document.querySelector('.leaflet-mousecoords');
 // Show coordinates
 map.on("mousemove", function (e) {
     // Get x and z coords
-    let xCoord = 16 * e.latlng.lng.toFixed(2)
+    let xCoord = 128 * e.latlng.lng.toFixed(2)
     xCoord = xCoord > 0 ? Math.floor(xCoord) : Math.ceil(xCoord)
 
-    let zCoord = -16 * e.latlng.lat.toFixed(2)
+    let zCoord = -128 * e.latlng.lat.toFixed(2)
     zCoord = zCoord > 0 ? Math.floor(zCoord) : Math.ceil(zCoord)
     if (coordinateController) {
         coordinateController.textContent = `X: ${xCoord}, Z: ${zCoord}`
