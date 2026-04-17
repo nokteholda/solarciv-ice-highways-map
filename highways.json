@@ -3,9 +3,9 @@
     {
       "lines": {
         "European Railway Network": {
-          "Western Line": [
+          "Western": [
             "",
-            "Main line and British branch"
+            "Main line to British branch"
           ]
         }
       },
@@ -17,7 +17,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Western Line": [
+          "Western": [
             "",
             "British branch"
           ]
@@ -31,7 +31,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Western Line": [
+          "Western": [
             "",
             "British branch"
           ]
@@ -45,7 +45,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Western Line": [
+          "Western": [
             "",
             "Main line"
           ]
@@ -59,7 +59,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Western Line": [
+          "Western": [
             "",
             "Main line"
           ]
@@ -73,7 +73,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Western Line": [
+          "Western": [
             "",
             "Main line"
           ]
@@ -87,11 +87,11 @@
     {
       "lines": {
         "European Railway Network": {
-          "Western Line": [
+          "Western": [
             "",
             "Main line"
           ],
-          "Mediterranean Line": [
+          "Mediterranean": [
             "",
             "Main line"
           ]
@@ -105,11 +105,11 @@
     {
       "lines": {
         "European Railway Network": {
-          "Western Line": [
+          "Western": [
             "",
-            "Main line and Iberian branch"
+            "Main line to Iberian branch"
           ],
-          "Mediterranean Line": [
+          "Mediterranean": [
             "",
             "Iberian branch"
           ]
@@ -123,7 +123,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Western Line": [
+          "Western": [
             "",
             "Iberian branch"
           ]
@@ -137,7 +137,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Western Line": [
+          "Western": [
             "",
             "Main line"
           ]
@@ -151,7 +151,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Western Line": [
+          "Western": [
             "",
             "Main line"
           ]
@@ -165,11 +165,11 @@
     {
       "lines": {
         "European Railway Network": {
-          "Western Line": [
+          "Western": [
             "",
             "Main line"
           ],
-          "Rhine Line": [
+          "Rhine": [
             "",
             "Main line"
           ]
@@ -183,9 +183,9 @@
     {
       "lines": {
         "European Railway Network": {
-          "Rhine Line": [
+          "Rhine": [
             "",
-            "Main line and Dutch branch"
+            "Main line to Dutch branch"
           ]
         }
       },
@@ -197,7 +197,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Rhine Line": [
+          "Rhine": [
             "",
             "Dutch branch"
           ]
@@ -211,7 +211,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Rhine Line": [
+          "Rhine": [
             "",
             "Dutch branch"
           ]
@@ -225,7 +225,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Rhine Line": [
+          "Rhine": [
             "",
             "Dutch branch"
           ]
@@ -239,7 +239,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Rhine Line": [
+          "Rhine": [
             "",
             "Dutch branch"
           ]
@@ -253,7 +253,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Rhine Line": [
+          "Rhine": [
             "",
             "Main line"
           ]
@@ -267,7 +267,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Rhine Line": [
+          "Rhine": [
             "",
             "Main line"
           ]
@@ -281,9 +281,9 @@
     {
       "lines": {
         "European Railway Network": {
-          "Rhine Line": [
+          "Rhine": [
             "",
-            "Main line and North branch"
+            "Main line to North branch"
           ]
         }
       },
@@ -295,7 +295,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Rhine Line": [
+          "Rhine": [
             "",
             "Main line"
           ]
@@ -309,11 +309,11 @@
     {
       "lines": {
         "European Railway Network": {
-          "Rhine Line": [
+          "Rhine": [
             "",
             "North branch"
           ],
-          "German Line": [
+          "German": [
             "",
             "Interior branch"
           ]
@@ -327,13 +327,13 @@
     {
       "lines": {
         "European Railway Network": {
-          "Rhine Line": [
+          "Rhine": [
             "",
             "North branch"
           ],
-          "German Line": [
+          "German": [
             "",
-            "Baltic coast and Flensburg branch and Interior branch"
+            "Baltic coast to Flensburg branch to Interior branch"
           ]
         }
       },
@@ -345,9 +345,9 @@
     {
       "lines": {
         "European Railway Network": {
-          "Mediterranean Line": [
+          "Mediterranean": [
             "",
-            "Main line and Iberian branch"
+            "Main line to Iberian branch"
           ]
         }
       },
@@ -359,11 +359,11 @@
     {
       "lines": {
         "European Railway Network": {
-          "Rhine Line": [
+          "Rhine": [
             "",
             "Main line"
           ],
-          "Central European Line": [
+          "Central European": [
             "",
             "Main line"
           ]
@@ -377,7 +377,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Central European Line": [
+          "Central European": [
             "",
             "Main line"
           ]
@@ -391,7 +391,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Central European Line": [
+          "Central European": [
             "",
             "Main line"
           ]
@@ -405,7 +405,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Central European Line": [
+          "Central European": [
             "",
             "Main line"
           ]
@@ -419,7 +419,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "German Line": [
+          "German": [
             "",
             "Interior branch"
           ]
@@ -433,7 +433,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "German Line": [
+          "German": [
             "",
             "Flensburg branch"
           ]
@@ -447,7 +447,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "German Line": [
+          "German": [
             "",
             "Interior branch"
           ]
@@ -461,7 +461,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "German Line": [
+          "German": [
             "",
             "Baltic coast"
           ]
@@ -475,7 +475,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "German Line": [
+          "German": [
             "",
             "Baltic coast"
           ]
@@ -489,9 +489,9 @@
     {
       "lines": {
         "European Railway Network": {
-          "German Line": [
+          "German": [
             "",
-            "Baltic coast and Szczecin branch"
+            "Baltic coast to Szczecin branch"
           ]
         }
       },
@@ -503,7 +503,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "German Line": [
+          "German": [
             "",
             "Szczecin branch"
           ]
@@ -517,7 +517,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "German Line": [
+          "German": [
             "",
             "Szczecin branch"
           ]
@@ -531,7 +531,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "German Line": [
+          "German": [
             "",
             "Szczecin branch"
           ]
@@ -545,7 +545,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "German Line": [
+          "German": [
             "",
             "Interior branch"
           ]
@@ -559,9 +559,9 @@
     {
       "lines": {
         "European Railway Network": {
-          "German Line": [
+          "German": [
             "",
-            "Interior branch and Szczecin branch"
+            "Interior branch to Szczecin branch"
           ]
         }
       },
@@ -573,7 +573,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "German Line": [
+          "German": [
             "",
             "Baltic coast"
           ]
@@ -587,11 +587,11 @@
     {
       "lines": {
         "European Railway Network": {
-          "German Line": [
+          "German": [
             "",
-            "Baltic coast and Gotland branch"
+            "Baltic coast to Gotland branch"
           ],
-          "Eastern Line": [
+          "Eastern": [
             "",
             "Main line"
           ]
@@ -605,7 +605,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "German Line": [
+          "German": [
             "",
             "Gotland branch"
           ]
@@ -619,7 +619,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Eastern Line": [
+          "Eastern": [
             "",
             "Main line"
           ]
@@ -633,7 +633,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Eastern Line": [
+          "Eastern": [
             "",
             "Main line"
           ]
@@ -647,7 +647,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Eastern Line": [
+          "Eastern": [
             "",
             "Novgorod branch"
           ]
@@ -661,7 +661,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Eastern Line": [
+          "Eastern": [
             "",
             "Novgorod branch"
           ]
@@ -675,7 +675,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Eastern Line": [
+          "Eastern": [
             "",
             "Main line"
           ]
@@ -689,7 +689,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Eastern Line": [
+          "Eastern": [
             "",
             "Main line"
           ]
@@ -703,9 +703,9 @@
     {
       "lines": {
         "European Railway Network": {
-          "Eastern Line": [
+          "Eastern": [
             "",
-            "Main line and Novgorod branch"
+            "Main line to Novgorod branch"
           ]
         }
       },
@@ -717,7 +717,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Central European Line": [
+          "Central European": [
             "",
             "Main line"
           ]
@@ -731,7 +731,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Central European Line": [
+          "Central European": [
             "",
             "Main line"
           ]
@@ -745,7 +745,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Central European Line": [
+          "Central European": [
             "",
             "Main line"
           ]
@@ -759,7 +759,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Central European Line": [
+          "Central European": [
             "",
             "Main line"
           ]
@@ -773,7 +773,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Central European Line": [
+          "Central European": [
             "",
             "Main line"
           ]
@@ -787,7 +787,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Mediterranean Line": [
+          "Mediterranean": [
             "",
             "Venezia branch"
           ]
@@ -801,9 +801,9 @@
     {
       "lines": {
         "European Railway Network": {
-          "Mediterranean Line": [
+          "Mediterranean": [
             "",
-            "Main line and Venezia branch"
+            "Main line to Venezia branch"
           ]
         }
       },
@@ -815,7 +815,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Mediterranean Line": [
+          "Mediterranean": [
             "",
             "Main line"
           ]
@@ -829,7 +829,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Mediterranean Line": [
+          "Mediterranean": [
             "",
             "Main line"
           ]
@@ -843,7 +843,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Mediterranean Line": [
+          "Mediterranean": [
             "",
             "Main line"
           ]
@@ -857,7 +857,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Mediterranean Line": [
+          "Mediterranean": [
             "",
             "Main line"
           ]
@@ -871,7 +871,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Mediterranean Line": [
+          "Mediterranean": [
             "",
             "Main line"
           ]
@@ -885,7 +885,7 @@
     {
       "lines": {
         "European Railway Network": {
-          "Mediterranean Line": [
+          "Mediterranean": [
             "",
             "Main line"
           ]
@@ -899,7 +899,7 @@
   ],
   "lines": {
     "European Railway Network": {
-      "Western Line": {
+      "Western": {
         "prefix": "",
         "code": "WL",
         "color": "3399ff",
@@ -1007,7 +1007,7 @@
           }
         }
       },
-      "Rhine Line": {
+      "Rhine": {
         "prefix": "",
         "code": "RL",
         "color": "ff9900",
@@ -1120,7 +1120,7 @@
           }
         }
       },
-      "German Line": {
+      "German": {
         "prefix": "",
         "code": "GL",
         "color": "cc0000",
@@ -1287,7 +1287,7 @@
           }
         }
       },
-      "Eastern Line": {
+      "Eastern": {
         "prefix": "",
         "code": "EL",
         "color": "009933",
@@ -1358,7 +1358,7 @@
           }
         }
       },
-      "Central European Line": {
+      "Central European": {
         "prefix": "",
         "code": "CEL",
         "color": "9900cc",
@@ -1417,7 +1417,7 @@
           }
         }
       },
-      "Mediterranean Line": {
+      "Mediterranean": {
         "prefix": "",
         "code": "ML",
         "color": "00cccc",
