@@ -5,7 +5,7 @@
         "European Railway Network": {
           "Western": [
             "",
-            "Main line to British branch"
+            "Main line and British branch"
           ]
         }
       },
@@ -107,7 +107,7 @@
         "European Railway Network": {
           "Western": [
             "",
-            "Main line to Iberian branch"
+            "Main line and Iberian branch"
           ],
           "Mediterranean": [
             "",
@@ -185,7 +185,7 @@
         "European Railway Network": {
           "Rhine": [
             "",
-            "Main line to Dutch branch"
+            "Main line and Dutch branch"
           ]
         }
       },
@@ -283,7 +283,7 @@
         "European Railway Network": {
           "Rhine": [
             "",
-            "Main line to North branch"
+            "Main line and North branch"
           ]
         }
       },
@@ -298,6 +298,10 @@
           "Rhine": [
             "",
             "Main line"
+          ],
+          "German": [
+            "",
+            "Flensburg branch"
           ]
         }
       },
@@ -333,7 +337,7 @@
           ],
           "German": [
             "",
-            "Baltic coast to Flensburg branch to Interior branch"
+            "Baltic coast and Flensburg branch and Interior branch"
           ]
         }
       },
@@ -347,7 +351,7 @@
         "European Railway Network": {
           "Mediterranean": [
             "",
-            "Main line to Iberian branch"
+            "Main line and Iberian branch"
           ]
         }
       },
@@ -491,7 +495,7 @@
         "European Railway Network": {
           "German": [
             "",
-            "Baltic coast to Szczecin branch"
+            "Baltic coast and Szczecin branch"
           ]
         }
       },
@@ -561,7 +565,7 @@
         "European Railway Network": {
           "German": [
             "",
-            "Interior branch to Szczecin branch"
+            "Interior branch and Szczecin branch"
           ]
         }
       },
@@ -589,7 +593,7 @@
         "European Railway Network": {
           "German": [
             "",
-            "Baltic coast to Gotland branch"
+            "Baltic coast and Gotland branch"
           ],
           "Eastern": [
             "",
@@ -705,7 +709,7 @@
         "European Railway Network": {
           "Eastern": [
             "",
-            "Main line to Novgorod branch"
+            "Main line and Novgorod branch"
           ]
         }
       },
@@ -803,7 +807,7 @@
         "European Railway Network": {
           "Mediterranean": [
             "",
-            "Main line to Venezia branch"
+            "Main line and Venezia branch"
           ]
         }
       },
@@ -1174,6 +1178,10 @@
           "Flensburg branch": {
             "vertices": [
               [
+                3125,
+                -16592
+              ],
+              [
                 3338,
                 -16857
               ],
@@ -1183,6 +1191,7 @@
               ]
             ],
             "stations": [
+              20,
               [
                 22,
                 "Baltic coast"
@@ -1192,10 +1201,6 @@
           },
           "Interior branch": {
             "vertices": [
-              [
-                3338,
-                -16857
-              ],
               [
                 3125,
                 -16592
